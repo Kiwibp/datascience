@@ -1,2 +1,4 @@
 # datascience
-NYCDSA Exercise
+
+
+Welcome to my GitHub repo.
